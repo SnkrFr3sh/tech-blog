@@ -1,0 +1,17 @@
+[
+    {
+      "comment": "glad it works",
+      "user_id": 1,
+      "blog_id": 1
+    },
+    {
+      "comment": "oh yup! me too!",
+      "user_id": 2,
+      "blog_id": 2
+    },
+    {
+      "comment": "Cool, happy belated!",
+      "user_id": 3,
+      "blog_id": 3
+    }
+  ]

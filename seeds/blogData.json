@@ -1,0 +1,18 @@
+[
+    {
+      "title": "test1",
+      "contents": "this is a test post",
+      "user_id": 1
+    },
+    {
+      "title": "test 2 + favorite candy",
+      "contents": "this is a test plus I like trolli eggs!",
+      "user_id": 2
+    },
+    {
+      "title": "favorite candy and birthday",
+      "contents": "trolli eggs and october 19",
+      "user_id": 3
+    }
+  ]
+  
